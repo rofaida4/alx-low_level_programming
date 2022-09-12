@@ -2,17 +2,17 @@
 
 /**                                                                                                                         
 
-* main - entary point                                                                               
+ * main - entary point                                                                               
 
-*                                                                                                                           
+ *                                                                                                                           
 
-*Description: using the main function                                                                                       
+ * Description: using the main function                                                                                       
 
-* this program prints "Programming is like building a multilingual puzzle"                                                  
+ * this program prints "Programming is like building a multilingual puzzle"                                                  
 
-* Return: 0  after printing the function                                                                                                               
+ * Return: 0  after printing the function                                                                                                               
 
-*/                                                                                                                          
+ */                                                                                                                          
 
 int main(void)                                                                                                              
 
