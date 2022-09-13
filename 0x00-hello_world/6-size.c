@@ -19,6 +19,7 @@ int main(void)
 	printf("size of a long long int:%1d byte(s)\n", sizeof(lli));
 	printf("size of a float:%1d byte(s)\n", sizeof(f));
 	printf("size of a short:%1d byte(s)\n", sizeof(s));
+	[stderr]: [Anything];
 	return (0);
 }
 
