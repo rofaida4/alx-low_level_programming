@@ -3,14 +3,13 @@
 
 
 /**
- * * strcpy - Copy paste string
+ * * _strcpy - Copy paste string
  * * @dest: destination
  * * @src: source
  * * Return: destination
  */
 
-
-char strcpy (char *dest, char *src)
+char *_strcpy(char *dest, char *src)
 {
 	int inc = 0;
 
