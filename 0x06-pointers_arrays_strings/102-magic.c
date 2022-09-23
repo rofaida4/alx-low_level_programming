@@ -12,6 +12,7 @@ int main(void)
 
 /*
  * write your line of code here...
+ * main - magic
  * remember:
  * -you are not allowed to use a
  * -you are not allowed to modify p
